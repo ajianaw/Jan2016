@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>This is a sample Image From Internet.</h2>
+<h2>This is a sample Image From Internet now.</h2>
 <img src="http://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
 
 
@@ -38,12 +38,12 @@ table#t01 th	{
     <th>Points</th>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>ajit</td>
     <td>Smith</td>		
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td>Ajit1</td>
     <td>Jackson</td>		
     <td>94</td>
   </tr>
