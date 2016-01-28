@@ -48,7 +48,7 @@ table#t01 th	{
     <td>94</td>
   </tr>
   <tr>
-    <td>John</td>
+    <td>Ajit2</td>
     <td>Doe</td>		
     <td>80</td>
   </tr>
